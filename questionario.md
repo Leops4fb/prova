@@ -4,3 +4,4 @@
  4 - uniâo de duas branches
  5 - pucha 
  6 - branch sao ramificaçôes do projeto
+ 7 - pull request e um pedido que se faz ,ao dono do repositorio
